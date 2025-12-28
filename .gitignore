@@ -1,0 +1,6 @@
+build/
+snapshots/
+live/
+persist/
+
+data.lock.json
